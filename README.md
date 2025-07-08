@@ -1,23 +1,22 @@
 # 🌸 Iris Flower Classifier | ML + Streamlit App
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Murugayesu/Iris-Classifier?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Murugayesu/Iris-Classifier?style=social)
+
 
 > A beginner-friendly machine learning project to classify iris flowers using sepal and petal measurements. Built with Scikit-learn, visualized with Seaborn, and deployed using Streamlit.
 
 ---
 
-## 🚀 Quick Links
+<!-- ## 🚀 Quick Links
 
 - 🔬 [View Jupyter Notebook](https://github.com/Murugayesu/Iris-Classifier/blob/main/iris_classifier.ipynb)
 - 🌐 [Launch the Web App (Streamlit)](https://iris-classifier.streamlit.app)
 
 
----
+--- -->
 
 ## 📚 Project Overview
 
-This project is part of a 22-step ML mastery journey—from beginner to AI wizard. This is **Project 2**, focusing on:
+This is **Project**, focusing on:
 
 - Exploratory Data Analysis (EDA)
 - Classification using Random Forest
@@ -56,6 +55,7 @@ This project is part of a 22-step ML mastery journey—from beginner to AI wizar
 
 pip install -r requirements.txt
 
-```bash
+# Run the Streamlit App
 
 streamlit run "iris app.py"
+
