@@ -6,13 +6,13 @@
 
 ---
 
-<!-- ## 🚀 Quick Links
+## 🚀 Quick Links
 
-- 🔬 [View Jupyter Notebook](https://github.com/Murugayesu/Iris-Classifier/blob/main/iris_classifier.ipynb)
-- 🌐 [Launch the Web App (Streamlit)](https://iris-classifier.streamlit.app)
+<!-- - 🔬 [View Jupyter Notebook](https://github.com/Murugayesu/Iris-Classifier/blob/main/iris_classifier.ipynb) -->
+- 🌐 [Launch the Web App (Streamlit)](https://iris-classification-am.streamlit.app/)
 
 
---- -->
+---
 
 ## 📚 Project Overview
 
